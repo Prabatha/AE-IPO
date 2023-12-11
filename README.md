@@ -1,1 +1,1 @@
-# APLIKASI-MOBILE
+Ae-ipo mengumpulkan informasi yang relevan, berita terkini, laporan keuangan, dan ruang diskusi dalam satu tempat. Dengan demikian, aplikasi ini akan membantu investor untuk membuat keputusan investasi yang lebih baik dan memberikan transparansi yang lebih besar dalam pasar saham IPO Indonesia.
